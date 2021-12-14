@@ -1,0 +1,3 @@
+OLÁ ESSE TAMBEM É IMPORTANTE
+ 
+Lembre do comano: git commit
