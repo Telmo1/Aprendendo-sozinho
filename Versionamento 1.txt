@@ -1,3 +1,5 @@
 Olá tudo bem?
 
 Lembre sempre do comando: git status
+
+Agora da branch staging 
